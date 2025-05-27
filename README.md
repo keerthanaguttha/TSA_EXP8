@@ -46,7 +46,7 @@ Display the shape and the first 10 rows of the dataset
 print("Shape of the dataset:", yahoo_data.shape)
 print("First 10 rows of the dataset:")
 print(yahoo_data.head(10))
-
+```
 Plot Original Dataset 
 ```
 plt.figure(figsize=(12, 6))
@@ -140,7 +140,7 @@ ax.set_title('Prediction')
 plt.show() # Added plt.show() to display the plot
 
 ```
-```
+
 
 ### OUTPUT:
 
